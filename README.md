@@ -79,3 +79,43 @@ materi kuliah pemrograman dasar
 #### Tugas & Belajar Mandiri
 
 1. Aplikasi mendemonstrasikan fungsi 
+
+
+### Pertemuan 10 
+
+#### Materi 
+
+1. Class 
+
+#### Tugas & Belajar Mandiri
+
+1. Aplikasi mendemonstrasikan class
+
+
+### Pertemuan 11 
+
+#### Materi 
+
+1. File I/O 
+
+#### Tugas & Belajar Mandiri
+
+1. Aplikasi mendemonstrasikan File I/O
+
+
+### Pertemuan 12 
+
+#### Materi 
+
+1. Error Handling 
+
+#### Tugas & Belajar Mandiri 
+
+1. Aplikasi Mendemonstrasikan Error Handling 
+
+
+### pertemuan 13 - 16 
+
+#### Tugas & Belajar Mandiri 
+
+1. Final Project
