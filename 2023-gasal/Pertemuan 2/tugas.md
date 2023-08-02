@@ -1,15 +1,15 @@
 # Tugas II
 
 ## Soal App
-Buatlah program sederhana yang mengeluarkan output sesuai yang diinputkan
-beberapa sample yang akan dijalankan sistem seperti
+Buatlah program sederhana yang mengeluarkan output sesuai yang diinputkan  
+beberapa sample yang akan dijalankan sistem seperti  
 
-jika dijalankan dengan ./jawaban2_1_nrp.php 1 akan menghasilkan output [ini](jawaban2_a.txt)
-jika dijalankan dengan ./jawaban2_1_nrp.php 2 akan menghasilkan output [ini](jawaban2_a.txt)
-jika dijalankan dengan ./jawaban2_1_nrp.php haloo akan menghasilkan output [ini](jawaban2_b.txt)
-jika dijalankan dengan ./jawaban2_1_nrp.php "haloo saya radit" akan menghasilkan output [ini](jawaban2_b.txt)
-jika dijalankan dengan ./jawaban2_1_nrp.php 1.5 akan menghasilkan output [ini](jawaban2_c.txt)
-jika dijalankan dengan ./jawaban2_1_nrp.php -0.5 akan menghasilkan output [ini](jawaban2_c.txt)
+jika dijalankan dengan ./jawaban2_1_nrp.php 1 akan menghasilkan output [ini](jawaban2_a.txt)  
+jika dijalankan dengan ./jawaban2_1_nrp.php 2 akan menghasilkan output [ini](jawaban2_a.txt)  
+jika dijalankan dengan ./jawaban2_1_nrp.php haloo akan menghasilkan output [ini](jawaban2_b.txt)  
+jika dijalankan dengan ./jawaban2_1_nrp.php "haloo saya radit" akan menghasilkan output [ini](jawaban2_b.txt)  
+jika dijalankan dengan ./jawaban2_1_nrp.php 1.5 akan menghasilkan output [ini](jawaban2_c.txt)  
+jika dijalankan dengan ./jawaban2_1_nrp.php -0.5 akan menghasilkan output [ini](jawaban2_c.txt)  
 
 dengan spesifikasi 
 1. dibuat dengan nama jawaban2_1_nrp.php (case sensitif)
