@@ -1,0 +1,9 @@
+
+$list_data1 = array('orang1','orang2','orang3');
+
+@$list_data1 = array('orang10');
+
+foreach($list_data1 as $data)
+{
+	echo $data.PHP_EOL;
+}

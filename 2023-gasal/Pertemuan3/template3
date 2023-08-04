@@ -1,0 +1,8 @@
+
+PI = 3.14;
+
+$LABEL_PI = "NILAI Pi ".PI;
+
+@$LABEL_PI = "2 Nilai Pi ".PI;
+
+echo $LABEL_PI.PHP_EOL;
